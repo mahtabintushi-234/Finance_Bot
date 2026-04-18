@@ -1,0 +1,60 @@
+{
+  "users": {
+    "userId123": [
+      {
+        "date": "2023-06-01",
+        "category": "groceries",
+        "amount": 50.00
+      },
+      {
+        "date": "2023-06-02",
+        "category": "entertainment",
+        "amount": 30.00
+      },
+      {
+        "date": "2023-06-05",
+        "category": "utilities",
+        "amount": 100.00
+      }
+    ],
+    "userId456": [
+      {
+        "date": "2023-06-03",
+        "category": "transportation",
+        "amount": 15.75
+      },
+      {
+        "date": "2023-06-04",
+        "category": "groceries",
+        "amount": 82.40
+      },
+      {
+        "date": "2023-06-06",
+        "category": "healthcare",
+        "amount": 120.00
+      }
+    ],
+    "userId789": [
+      {
+        "date": "2023-06-01",
+        "category": "rent",
+        "amount": 1200.00
+      },
+      {
+        "date": "2023-06-07",
+        "category": "subscriptions",
+        "amount": 12.99
+      },
+      {
+        "date": "2023-06-08",
+        "category": "entertainment",
+        "amount": 45.00
+      },
+      {
+        "date": "2023-06-09",
+        "category": "dining",
+        "amount": 28.50
+      }
+    ]
+  }
+}

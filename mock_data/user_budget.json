@@ -1,0 +1,34 @@
+{
+  "users": {
+    "userId123": {
+      "monthly_budget": 1000.00,
+      "current_month_spending": 700.00,
+      "remaining_budget": 300.00,
+      "spending_percentage": 70
+    },
+    "userId456": {
+      "monthly_budget": 1500.00,
+      "current_month_spending": 820.00,
+      "remaining_budget": 680.00,
+      "spending_percentage": 54.67
+    },
+    "userId789": {
+      "monthly_budget": 2000.00,
+      "current_month_spending": 1950.00,
+      "remaining_budget": 50.00,
+      "spending_percentage": 97.5
+    },
+    "userId321": {
+      "monthly_budget": 850.00,
+      "current_month_spending": 400.00,
+      "remaining_budget": 450.00,
+      "spending_percentage": 47.06
+    },
+    "userId654": {
+      "monthly_budget": 3000.00,
+      "current_month_spending": 1200.00,
+      "remaining_budget": 1800.00,
+      "spending_percentage": 40
+    }
+  }
+}

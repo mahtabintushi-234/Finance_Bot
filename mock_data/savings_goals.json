@@ -1,0 +1,39 @@
+{
+  "users": {
+    "userId123": {
+      "goal_name": "Emergency Fund",
+      "target_amount": 5000.00,
+      "current_savings": 1200.00,
+      "deadline": "2024-12-31",
+      "progress_percentage": 24
+    },
+    "userId456": {
+      "goal_name": "Vacation Trip",
+      "target_amount": 3000.00,
+      "current_savings": 950.00,
+      "deadline": "2024-08-15",
+      "progress_percentage": 31.67
+    },
+    "userId789": {
+      "goal_name": "New Car",
+      "target_amount": 15000.00,
+      "current_savings": 4000.00,
+      "deadline": "2025-06-01",
+      "progress_percentage": 26.67
+    },
+    "userId321": {
+      "goal_name": "Laptop Upgrade",
+      "target_amount": 1800.00,
+      "current_savings": 600.00,
+      "deadline": "2024-05-30",
+      "progress_percentage": 33.33
+    },
+    "userId654": {
+      "goal_name": "Home Down Payment",
+      "target_amount": 40000.00,
+      "current_savings": 12000.00,
+      "deadline": "2026-01-01",
+      "progress_percentage": 30
+    }
+  }
+}
